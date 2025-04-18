@@ -1,0 +1,26 @@
+{
+  "name": "ai-dropshipping-strategy",
+  "version": "1.0.0",
+  "description": "AIデザイン活用型無在庫EC事業戦略のReactコンポーネント",
+  "main": "AIDropshippingGuide.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "ai",
+    "ecommerce",
+    "dropshipping",
+    "print-on-demand"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1"
+  },
+  "peerDependencies": {
+    "tailwindcss": "^3.3.0"
+  }
+}
